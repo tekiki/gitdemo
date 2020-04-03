@@ -27,3 +27,5 @@ for i in range(0,n-1):
                     change=True#发生了替换
     if change==False:
         break#未发生替换，结束循环
+for i in range(0,5):
+    print(lb[i][4],lb[i][3])#输出前五名的学号和总分
