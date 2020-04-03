@@ -1,3 +1,4 @@
+#实验6-1
 a=input()#输入驼峰命名法命名的变量名
 list1=list(a)#将变量名转成列表
 for i in range(1,n+1):
